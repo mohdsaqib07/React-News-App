@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Charlie Hall",
+            "title": "Assassin’s Creed tabletop RPG focuses on its science fiction elements",
+            "description": "Assassin’s Creed is being turned into a D&D-like tabletop RPG. By focusing on the Animus technology, developer CMON says players will be set loose across time.",
+            "url": "https://www.polygon.com/tabletop-games/23860266/assassins-creed-tabletop-rpg-animus-cmon",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/cdh41B3Q0mh9tNTeIJUkrxJGImg=/0x59:3000x1630/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24900320/AC01_Altair_with_animus.jpg",
+            "publishedAt": "2023-09-06T14:15:00Z",
+            "content": "Step into the DNA-reading Animus machine"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Margaret Brennan, Tucker Reals",
+            "title": "As U.S. warns North Korea against giving Russia weapons for Ukraine, what could Kim Jong Un get in return?",
+            "description": "A senior South Korean official tells CBS News there's concern the isolated Kim regime could get nuclear submarine or satellite technology for helping Putin.",
+            "url": "https://www.cbsnews.com/news/russia-north-korea-weapons-kim-jong-un-nuclear-submarine-technology/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/06/85cd3604-bf71-456f-935e-c3d82eaffe07/thumbnail/1200x630/5bd87a3c377c2ecb177374feb8618f87/gettyimages-1139190611.jpg?v=bd30f47a894d621fb3691fc64d1442e9",
+            "publishedAt": "2023-09-06T14:03:56+00:00",
+            "content": "U.S. officials have issued repeated warnings this week about the prospect of North Korea's isolated totalitarian regime agreeing to supply Russia with ammunition and weapons for its ongoing invasion … [+4882 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Lockheed Martin trims F-35 jet delivery outlook",
+            "description": "U.S. weapons maker Lockheed Martin <a href=\"https://www.reuters.com/markets/companies/LMT.N\" target=\"_blank\">(LMT.N)</a> on Wednesday cut its delivery outlook for its F-35 jets, and delayed deliveries of its updated Technology Refresh 3 (TR-3) jets.",
+            "url": "https://www.reuters.com/business/aerospace-defense/lockheed-martin-trims-f-35-jet-delivery-outlook-2023-09-06/",
+            "urlToImage": "https://www.reuters.com/resizer/T-COpYGX222OTUfgtyJTrDIu_y8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JDVEOKODDROD5ET5QFJCR6HWAA.jpg",
+            "publishedAt": "2023-09-06T13:14:22Z",
+            "content": "Sept 6 (Reuters) - U.S. weapons maker Lockheed Martin (LMT.N) on Wednesday cut its delivery outlook for its F-35 jets, and delayed deliveries of its updated Technology Refresh 3 (TR-3) jets.\r\nLockhee… [+885 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Yoko Kubota",
+            "title": "China Bans iPhone Use for Government Officials at Work",
+            "description": "Restrictions on foreign devices are the latest step in Beijing’s campaign to reduce reliance on overseas technology and could hurt Apple’s success in the country",
+            "url": "https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8?mod=hp_lead_pos3",
+            "urlToImage": "https://images.wsj.net/im-847263/social",
+            "publishedAt": "2023-09-06T06:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sophie Alcorn",
+            "title": "Ask Sophie: How do I bring my team members to the US from India? | TechCrunch",
+            "description": "Here's another edition of “Ask Sophie,” the advice column that answers immigration-related questions about working at technology companies.",
+            "url": "https://techcrunch.com/2023/09/06/ask-sophie-how-do-i-bring-my-team-members-to-the-u-s-from-india/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/dear-sophie-immigration-maze-3.jpg?w=1024",
+            "publishedAt": "2023-09-06T03:39:16Z",
+            "content": "More posts by this contributor\r\nHere’s another edition of Ask Sophie, the advice column that answers immigration-related questions about working at technology companies.\r\nYour questions are vital to … [+3187 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "Missile Defense Agency Sees Megawatt Anti-ICBM Lasers by 2026 | NextBigFuture.com",
+            "description": "In July 2023 Lockheed Martin (NYSE: LMT) announced they will scale its laser technology to a new benchmark: a 500 kW-class laser, the most powerful laser",
+            "url": "https://www.nextbigfuture.com/2023/09/missile-defense-agency-sees-megawatt-anti-icbm-lasers-by-2026.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/Screen-Shot-2023-09-05-at-10.41.12-AM.jpg",
+            "publishedAt": "2023-09-05T17:46:10Z",
+            "content": "In July 2023 Lockheed Martin (NYSE: LMT) announced they will scale its laser technology to a new benchmark: a 500 kW-class laser, the most powerful laser Lockheed Martin has produced, topping its 300… [+3519 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        }
+    ]
+}
